@@ -1,0 +1,13 @@
+# 💰 Tip Calculator (Python)
+
+A simple Python script to calculate tips and split bills between multiple people. Perfect for quick calculations at restaurants or when splitting bills with friends!
+
+## 🚀 Features
+- ✅ Calculates tip based on bill amount and tip percentage  
+- ✅ Calculates total bill including tip  
+- ✅ Splits total evenly between multiple people  
+- ✅ Handles invalid input gracefully (non-numeric input)  
+- ✅ Supports zero or single-person splits  
+- ✅ Outputs amounts formatted to 2 decimal places  
+- ✅ Easy to extend for custom rounding or currency symbols  
+
